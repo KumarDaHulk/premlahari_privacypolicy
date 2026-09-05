@@ -1,0 +1,32 @@
+Privacy Policy for PremLahari
+Last Updated: September 5, 2026
+
+PremLahari (referred to as "the App") is a devotional and literature application. This Privacy Policy describes how we handle information when you use our mobile application.
+
+1. Information Collection and Use
+The App is designed to provide devotional content.
+• Personal Data: We do not collect personally identifiable information (such as your name, email address, or phone number) directly within the App.
+• Local Storage: The App stores your "Favorites" and display settings (like font size and alignment) locally on your device using SQLite databases and SharedPreferences. This data remains on your device and is not uploaded to our servers.
+
+2. Third-Party Services
+The App uses third-party services that may collect information used to identify you:
+• Google Play Services: Used for core app functionality and updates.
+• AdMob (Google Ads): The App displays advertisements. Google may use device identifiers (like the Android Advertising ID) to serve personalized ads. You can manage these identifiers in your device's Google Settings.
+
+3. External Links
+The App contains links to external websites and social media platforms (such as YouTube, Facebook, Instagram, and official Sansthan websites). Once you click these links and leave the App, we do not have control over those websites. We encourage you to read the privacy policies of any third-party site you visit.
+
+4. Location Data
+The App provides a link to view the location of Sri Kshetra Pantha Balekundri on a map. The App does not actively track your precise GPS location in the background.
+
+5. Data Retention
+Since we do not collect personal data on our servers, we do not retain your personal information. Local data (favorites) is retained on your device until the App is uninstalled or data is manually cleared.
+
+6. Children’s Privacy
+The App does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children.
+
+7. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.
+
+8. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: shreepantcreations@gmail.com
